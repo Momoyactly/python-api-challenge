@@ -8,7 +8,7 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![Example](output_data/lat_VS_maxTemp.png)
+![Example](output_data/lat_VS_maxTemp.jpg)
 
 ### Before You Begin
 
